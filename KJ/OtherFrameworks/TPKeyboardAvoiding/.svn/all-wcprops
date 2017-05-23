@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/TPKeyboardAvoiding
+END
+TPKeyboardAvoidingCollectionView.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/TPKeyboardAvoiding/TPKeyboardAvoidingCollectionView.h
+END
+UIScrollView+TPKeyboardAvoidingAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/TPKeyboardAvoiding/UIScrollView+TPKeyboardAvoidingAdditions.m
+END
+TPKeyboardAvoidingTableView.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/TPKeyboardAvoiding/TPKeyboardAvoidingTableView.m
+END
+TPKeyboardAvoidingScrollView.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/TPKeyboardAvoiding/TPKeyboardAvoidingScrollView.h
+END
+TPKeyboardAvoidingCollectionView.m
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/TPKeyboardAvoiding/TPKeyboardAvoidingCollectionView.m
+END
+TPKeyboardAvoidingScrollView.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/TPKeyboardAvoiding/TPKeyboardAvoidingScrollView.m
+END
+UIScrollView+TPKeyboardAvoidingAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/TPKeyboardAvoiding/UIScrollView+TPKeyboardAvoidingAdditions.h
+END
+TPKeyboardAvoidingTableView.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/TPKeyboardAvoiding/TPKeyboardAvoidingTableView.h
+END

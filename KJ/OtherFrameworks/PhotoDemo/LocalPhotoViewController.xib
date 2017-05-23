@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11201" systemVersion="16A323" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" colorMatched="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="LocalPhotoViewController">
+            <connections>
+                <outlet property="collection" destination="gTC-yZ-0nq" id="1og-tx-9lY"/>
+                <outlet property="confirmButton" destination="4yo-3b-vFN" id="Z1F-3j-YCR"/>
+                <outlet property="lbAlert" destination="ZDF-BD-iYO" id="yzk-fQ-Jcb"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <collectionView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" minimumZoomScale="0.0" maximumZoomScale="0.0" dataMode="none" translatesAutoresizingMaskIntoConstraints="NO" id="gTC-yZ-0nq">
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="5" id="ZL5-ii-feY">
+                        <size key="itemSize" width="70" height="70"/>
+                        <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                        <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                        <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    </collectionViewFlowLayout>
+                    <cells/>
+                </collectionView>
+                <view contentMode="scaleToFill" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="a9S-qH-z8h">
+                    <frame key="frameInset" minY="612" width="375" height="55"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4yo-3b-vFN">
+                            <frame key="frameInset" minX="295" minY="12" width="59" height="30"/>
+                            <color key="backgroundColor" red="0.32549019607843138" green="0.66666666666666663" blue="0.99607843137254903" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="30" id="05u-BD-c4C"/>
+                                <constraint firstAttribute="width" constant="60" id="e4W-8N-04Y"/>
+                            </constraints>
+                            <state key="normal" title="确定">
+                                <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <connections>
+                                <action selector="btnConfirm:" destination="-1" eventType="touchUpInside" id="e9j-my-Vek"/>
+                            </connections>
+                        </button>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="请选择照片" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZDF-BD-iYO">
+                            <frame key="frameInset" minX="8" minY="17" width="207" height="21"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" red="0.93725490199999995" green="0.93725490199999995" blue="0.95686274510000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstItem="4yo-3b-vFN" firstAttribute="centerY" secondItem="a9S-qH-z8h" secondAttribute="centerY" id="B6g-nL-avO"/>
+                        <constraint firstItem="ZDF-BD-iYO" firstAttribute="centerY" secondItem="a9S-qH-z8h" secondAttribute="centerY" id="BLt-zt-qFB"/>
+                        <constraint firstAttribute="trailing" secondItem="4yo-3b-vFN" secondAttribute="trailing" constant="10" id="Rrt-LO-HVN"/>
+                        <constraint firstItem="ZDF-BD-iYO" firstAttribute="leading" secondItem="a9S-qH-z8h" secondAttribute="leading" constant="10" id="SSs-QM-u8k"/>
+                        <constraint firstAttribute="height" constant="44" id="ayg-gK-RKA"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="gTC-yZ-0nq" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="7jh-bK-8BO"/>
+                <constraint firstAttribute="bottom" secondItem="a9S-qH-z8h" secondAttribute="bottom" id="OrV-Di-GPr"/>
+                <constraint firstAttribute="trailing" secondItem="gTC-yZ-0nq" secondAttribute="trailing" id="Zev-q1-SsA"/>
+                <constraint firstAttribute="bottom" secondItem="gTC-yZ-0nq" secondAttribute="bottom" constant="44" id="dMO-KY-TUW"/>
+                <constraint firstItem="gTC-yZ-0nq" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="dyq-AU-vXt"/>
+                <constraint firstAttribute="trailing" secondItem="a9S-qH-z8h" secondAttribute="trailing" id="otr-V0-SAs"/>
+                <constraint firstItem="a9S-qH-z8h" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="sUW-qr-xyl"/>
+                <constraint firstItem="a9S-qH-z8h" firstAttribute="top" secondItem="gTC-yZ-0nq" secondAttribute="bottom" id="yMr-AJ-HwW"/>
+            </constraints>
+            <point key="canvasLocation" x="32.5" y="153.5"/>
+        </view>
+    </objects>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4_7.fullscreen"/>
+    </simulatedMetricsContainer>
+</document>

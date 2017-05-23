@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/Mantle
+END
+NSValueTransformer+MTLInversionAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/Mantle/NSValueTransformer+MTLInversionAdditions.m
+END
+NSObject+MTLComparisonAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/Mantle/NSObject+MTLComparisonAdditions.h
+END
+MTLJSONAdapter.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/Mantle/MTLJSONAdapter.m
+END
+NSArray+MTLManipulationAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/Mantle/NSArray+MTLManipulationAdditions.m
+END
+NSObject+MTLComparisonAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/Mantle/NSObject+MTLComparisonAdditions.m
+END
+NSValueTransformer+MTLPredefinedTransformerAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/Mantle/NSValueTransformer+MTLPredefinedTransformerAdditions.h
+END
+MTLManagedObjectAdapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/Mantle/MTLManagedObjectAdapter.h
+END
+NSValueTransformer+MTLPredefinedTransformerAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/Mantle/NSValueTransformer+MTLPredefinedTransformerAdditions.m
+END
+MTLManagedObjectAdapter.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/Mantle/MTLManagedObjectAdapter.m
+END
+MTLReflection.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/Mantle/MTLReflection.h
+END
+MTLReflection.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/Mantle/MTLReflection.m
+END
+MTLValueTransformer.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/Mantle/MTLValueTransformer.h
+END
+MTLModel+NSCoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/Mantle/MTLModel+NSCoding.h
+END
+MTLModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/Mantle/MTLModel.h
+END
+NSDictionary+MTLManipulationAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/Mantle/NSDictionary+MTLManipulationAdditions.h
+END
+Mantle.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/Mantle/Mantle.h
+END
+MTLValueTransformer.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/Mantle/MTLValueTransformer.m
+END
+MTLModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/Mantle/MTLModel.m
+END
+MTLModel+NSCoding.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/Mantle/MTLModel+NSCoding.m
+END
+NSError+MTLModelException.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/Mantle/NSError+MTLModelException.h
+END
+NSDictionary+MTLManipulationAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/Mantle/NSDictionary+MTLManipulationAdditions.m
+END
+NSValueTransformer+MTLInversionAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/Mantle/NSValueTransformer+MTLInversionAdditions.h
+END
+NSArray+MTLManipulationAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/Mantle/NSArray+MTLManipulationAdditions.h
+END
+MTLJSONAdapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/Mantle/MTLJSONAdapter.h
+END
+NSError+MTLModelException.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/Mantle/NSError+MTLModelException.m
+END
